@@ -9,7 +9,8 @@ int main(void)
 {
 	for (char i = 'a' ; i <= 'z' ; i++)
 	{
-		putchar(i);
-		printf(\n)
+		_putchar(i);
+
+	_putchar(\n);
 	}
 }	
